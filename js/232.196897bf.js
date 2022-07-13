@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkapollo2"]=self["webpackChunkapollo2"]||[]).push([[232],{15:function(n,e,o){o.r(e),o.d(e,{default:function(){return p}});var t=o(252);const r={class:"p-home"};function c(n,e,o,c,u,a){return(0,t.wg)(),(0,t.iD)("div",r,"HOME")}var u={name:"HomeView",props:[],data:function(){return{}},computed:{},methods:{},created:function(){},components:{}},a=o(744);const s=(0,a.Z)(u,[["render",c]]);var p=s}}]);
+//# sourceMappingURL=232.196897bf.js.map
